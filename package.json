@@ -1,6 +1,6 @@
 {
   "name": "cort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "description": "Cort Tools & Utils",
   "keywords": [
@@ -31,6 +31,7 @@
     "url": "git@github.com:teniryte/cort.git"
   },
   "publish": true,
+  "push": true,
   "publishConfig": {
     "registry": "https://pm.cort.one"
   },
